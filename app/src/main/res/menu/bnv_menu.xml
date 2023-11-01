@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuHome" android:title="Trang chủ" android:icon="@drawable/ic_baseline_home_24" />
+    <item android:id="@+id/menuCart" android:title="Giỏ hàng" android:icon="@drawable/ic_baseline_shopping_cart_24"/>
+    <item android:id="@+id/menuHistoryPayment" android:title="Lịch sử" android:icon="@drawable/ic_baseline_featured_play_list_24"/>
+    <item android:id="@+id/menuAccount" android:title="Tài khoản" android:icon="@drawable/ic_baseline_account_box_24"/>
+</menu>
