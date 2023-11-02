@@ -25,7 +25,7 @@ public class SQLPayment {
         cs.moveToFirst();
         while (!cs.isAfterLast()) {
             try {
-                String TEST="DAY LA DATA";
+                String TEST="DAY LA DAATA";
                 int id  = cs.getInt(0);
                 String userName = cs.getString(1);
                 String name = cs.getString(2);
