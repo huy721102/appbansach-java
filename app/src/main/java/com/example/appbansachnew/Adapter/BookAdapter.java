@@ -24,6 +24,7 @@ public class BookAdapter extends RecyclerView.Adapter<BookAdapter.ViewHolder> {
     public BookAdapter(ArrayList<Book> list, HomeFragment context) {
         this.list = list;
         this.context = context;
+        String tess123t="di";
     }
 
     @NonNull
